@@ -1,0 +1,44 @@
+body {
+    background-color: pink;
+}
+
+table {
+    margin: auto;
+    width: 71%;
+    margin-right: 128px;
+}
+
+td {
+    background-color: #c4c4c4;
+    color: white;
+    text-align: center;
+}
+
+img {
+    width: 235px;
+    height: 314px;
+    position: absolute;
+    top: 18%;
+    right: 16%;
+}
+
+.big {
+    font-size: 48px;
+    margin: 0%;
+}
+
+.text1 {
+    margin: 0%;
+    font-size: 24px;
+}
+
+.text2 {
+    margin-top: 130px;
+    font-size: 24px;
+}
+
+.text3 {
+    margin-top: 60px;
+    font-size: 24px;
+    padding-bottom: 28px;
+}
