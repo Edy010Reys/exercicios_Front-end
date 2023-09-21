@@ -1,0 +1,39 @@
+body {
+    background-color: #ddd;
+    font-family: "Helvetica Neue", Helvetica, sans-serif;
+}
+
+main {
+    line-height: 1.5;
+    width: 60%;
+    margin: auto;
+    padding: 2%;
+    background-color: white;
+}
+
+h1, h2 {
+    color: rgb(146, 76, 8);
+}
+
+textarea {
+    width: 100%;
+    height: 100px;
+    color: #444;
+}
+
+input:required {
+    width: 50%;
+    color: #444;
+    border-color: black;
+}
+
+input:invalid {
+    width: 50%;
+    color: #444;
+    border-color: red;
+}
+
+#perfil {
+    width: 120;
+    height: 120;
+}
